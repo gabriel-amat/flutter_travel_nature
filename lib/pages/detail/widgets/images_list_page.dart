@@ -48,7 +48,7 @@ class _ImagesListPageState extends State<ImagesListPage> {
               setState(() => currentIndex = index + 1);
             }),
             height: 400,
-            viewportFraction: 0.8,
+            viewportFraction: 0.7,
             enlargeCenterPage: true,
           ),
           items: widget.images.map((element) {
