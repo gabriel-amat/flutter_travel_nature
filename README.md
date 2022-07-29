@@ -1,6 +1,6 @@
 # Flutter Travel Nature
 
-<h2>Layout inspired by</h2>
+<h2>Design byy</h2>
 https://dribbble.com/shots/17357748-Nature-Travel-App
 
 <h2>Video</h2>
